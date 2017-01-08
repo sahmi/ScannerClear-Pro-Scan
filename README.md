@@ -1,0 +1,2 @@
+# ScannerClear-Pro-Scan
+ScannerClear:Pro Scan vous permet de numériser des documents, des reçus, des billets, des rapports ou quoi que ce soit avec votre appareil Android. Scanner facile - Scanner Camera - PDF Scanner ou ce que vous nommez, cette application est conçue comme un scanner de base pour adapter votre travail quotidien avec des   fonctionnalités intelligentes supplémentaires (exportation au format PDF et l'image, connecter des imprimantes, nuage télécharger, envoyer du courrier, etc.)
